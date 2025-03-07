@@ -8,7 +8,7 @@ Tento projekt je jednoduchý klon TikTok s funkcemi:
 
 ## 📦 Instalace
 ```bash
-git clone https://github.com/tvuj-repo
+git clone https://github.com/20player11/video
 cd my-tiktok-clone
 npm install
 npm start
